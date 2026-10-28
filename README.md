@@ -176,7 +176,9 @@ Os resultados podem subsidiar políticas de remuneração, melhoria das condiç�
 **Mairon Henrique de Oliveira**
 
 - **LinkedIn:** [linkedin.com/in/maironhenriquedeoliveira](https://www.linkedin.com/in/maironhenriquedeoliveira)
-- **E-mail**: maironhenrique@hotmail.com 
+- **E-mail**: maironhenrique@hotmail.com
+- 📊 [Portfólio com análises no Medium](https://medium.com/@maironhenrique)
+- 📈 [Portfólio com Dashboards](https://app.xperiun.com/in/maironhenrique)
 
 ---
 
