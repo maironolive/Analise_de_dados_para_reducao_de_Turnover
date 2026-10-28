@@ -48,6 +48,8 @@ Foram analisadas as características dos colaboradores e a distribuição dos de
 
 As variáveis quantitativas também foram agrupadas em faixas para facilitar a comparação entre grupos e a interpretação das taxas de turnover.
 
+<img width="1739" height="645" alt="image" src="https://github.com/user-attachments/assets/0957864e-a55b-4753-b15b-291ded164f28" />
+
 ### 2. Análise bivariada
 
 Foram investigadas as taxas de desligamento em diferentes grupos de funcionários, buscando identificar categorias com maior incidência de turnover e possíveis padrões relevantes para o negócio.
