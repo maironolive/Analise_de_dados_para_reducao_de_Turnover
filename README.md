@@ -44,7 +44,7 @@ A base utilizada contém informações de 1.470 funcionários e 19 possíveis fa
 
 ### 1. Análise exploratória de dados
 
-Foram analisadas as características dos colaboradores e a distribuição dos desligamentos, utilizando estatísticas descritivas, tabelas de frequência e visualizações.
+Foram analisadas a qualidade dos dados, as características dos colaboradores e a distribuição dos desligamentos, utilizando estatísticas descritivas, tabelas de frequência e visualizações.
 
 As variáveis quantitativas também foram agrupadas em faixas para facilitar a comparação entre grupos e a interpretação das taxas de turnover.
 
