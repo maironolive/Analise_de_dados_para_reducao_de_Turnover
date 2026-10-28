@@ -178,3 +178,9 @@ Os resultados podem subsidiar políticas de remuneração, melhoria das condiç�
 ---
 
 **Objetivo do projeto:** transformar dados em informações úteis para apoiar decisões de Recursos Humanos e contribuir para a redução do turnover.
+
+## Artigo completo
+
+Para conferir a análise completa, os gráficos, os resultados e o plano de ação proposto, acesse o artigo original no Medium:
+
+[**Análise de Dados para Diminuição de Turnover — Mairon Henrique de Oliveira**](https://medium.com/@maironhenrique/an%C3%A1lise-de-dados-para-diminui%C3%A7%C3%A3o-de-turnover-95c010458b0b)
