@@ -52,11 +52,16 @@ As variáveis quantitativas também foram agrupadas em faixas para facilitar a c
 
 Foram investigadas as taxas de desligamento em diferentes grupos de funcionários, buscando identificar categorias com maior incidência de turnover e possíveis padrões relevantes para o negócio.
 
+<img width="594" height="484" alt="image" src="https://github.com/user-attachments/assets/4f194f87-2ea1-4127-ad73-baf17d2a8be1" />
+
+
 ### 3. Information Value (IV)
 
 O *Information Value* foi utilizado para avaliar o poder discriminatório das variáveis em relação à saída dos funcionários.
 
 Essa análise ajudou a priorizar as variáveis que apresentaram maior capacidade de distinguir colaboradores que deixaram a empresa daqueles que permaneceram.
+
+<img width="594" height="566" alt="image" src="https://github.com/user-attachments/assets/32315f81-c002-4de4-b41a-a2379be1a373" />
 
 ### 4. Análise das relações entre variáveis
 
